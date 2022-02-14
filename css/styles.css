@@ -107,7 +107,7 @@ p {
     border-radius: 8%;
     background: linear-gradient(#11cdd4, #11999e);
     text-decoration: none;
-    padding: 10px;
+    padding: 1%;
 }
 
 .btn:hover {
