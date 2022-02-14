@@ -29,7 +29,7 @@ hr {
     border-style: dotted none none;
     border-width: 7px;
     margin: 100px auto;
-    color: #EAF6F6;
+    color: #daf8f8;
 }
 
 p {
@@ -118,8 +118,15 @@ p {
     margin: 0 30px;
     position: relative;
     color: #11999E;
+    text-decoration: none;
 }
 
 .contact-me {
     line-height: 75px;
+}
+
+.contactMessage {
+    width: 40%;
+    margin: 40px auto;
+    line-height: 2;
 }
